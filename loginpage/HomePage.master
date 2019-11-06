@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HomePage.master.cs" Inherits="loginpage.HomePage" %> 
+  
+<!DOCTYPE html>  
+  
+<html xmlns="http://www.w3.org/1999/xhtml">  
+<head runat="server">  
+    <title>Login Demo</title>  
+    <style type="text/css">
+       h1 {color:Red}
+       footer { background:gray}            
+    </style>    
+    <link href="masterPage.css" rel="stylesheet" />  
+</head>  
+<body>  
+   <div>
+    <header id="header">  
+        <h1>Login Demo</h1>  
+    </header> 
+    <nav id="nav">  
+        <ul>  
+            <li><a href="Default.aspx">Home</a></li>  
+            <li><a href="#">About</a></li>  
+            <li><a href="#">Article</a></li>  
+            <li><a href="#">Contact</a></li>  
+            <li id="logincss"><a href="login2.aspx">Login</a></li>  
+        </ul>  
+    </nav>          
+    <div id="con">  
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">  
+          
+        </asp:ContentPlaceHolder>          
+    </div>  
+    <footer id="footer">    
+         @ copyright 2019   
+    </footer>  
+   </div>                          
+</body>
+ 
+</html> 

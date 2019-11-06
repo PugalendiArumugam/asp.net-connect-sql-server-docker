@@ -1,0 +1,11 @@
+/Users/XxTARUNxX/Projects/loginpage/loginpage/bin/loginpage.dll
+/Users/XxTARUNxX/Projects/loginpage/loginpage/bin/loginpage.pdb
+/Users/XxTARUNxX/Projects/loginpage/loginpage/obj/Debug/loginpage.csprojAssemblyReference.cache
+/Users/XxTARUNxX/Projects/loginpage/loginpage/obj/Debug/loginpage.dll
+/Users/XxTARUNxX/Projects/loginpage/loginpage/obj/Debug/loginpage.pdb
+/Users/XxTARUNxX/Projects/loginpage/loginpage/bin/SqlServerConnections.dll
+/Users/XxTARUNxX/Projects/loginpage/loginpage/bin/System.Data.SqlClient.dll
+/Users/XxTARUNxX/Projects/loginpage/loginpage/bin/System.Data.SqlClient.xml
+/Users/XxTARUNxX/Projects/loginpage/loginpage/bin/SqlServerConnections.pdb
+/Users/XxTARUNxX/Projects/loginpage/loginpage/bin/SqlServerConnections.dll.config
+/Users/XxTARUNxX/Projects/loginpage/loginpage/obj/Debug/loginpage.csproj.CopyComplete

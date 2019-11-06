@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5EBDE8FA-F226-4654-8C25-2CE5F81A822F}|">
+  <MonoDevelop.Ide.ItemProperties.loginpage PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="loginpage/login2.aspx.cs">
+    <Files>
+      <File FileName="loginpage/login2.aspx.cs" Line="8" Column="1" />
+      <File FileName="loginpage/login2.aspx" Line="84" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="loginpage" expanded="True">
+            <Node name="loginpage" expanded="True">
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="Global.asax" expanded="True" />
+              <Node name="HomePage.master" expanded="True" />
+              <Node name="login2.aspx" expanded="True">
+                <Node name="login2.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
